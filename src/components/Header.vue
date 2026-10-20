@@ -1,7 +1,7 @@
 <template> 
 
     <header>
-        <h1>My Portfolio</h1>
+        <h1>Mi Portfolio</h1>
     </header>
 
 </template>
